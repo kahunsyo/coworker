@@ -1,0 +1,1 @@
+GUIDELINES.mdを読み、REQUEST.mdを満たすようにしてください。
